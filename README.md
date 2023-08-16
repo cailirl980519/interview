@@ -1,5 +1,5 @@
 # Interview
-> interview檔案為mac執行檔
+> interview.exe檔案為windows執行檔
 
 ### Compiles for development
 ```
